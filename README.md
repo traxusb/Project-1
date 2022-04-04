@@ -8,9 +8,7 @@ The files in this repository were used to configure the network depicted below.
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML file may be used to install only certain pieces of it, such as Filebeat.
 
-{% include "../filebeat_metricbeat-playbook.yml.txt"}
-{ % include-markdown "../README.md" %}
-{ !docs/filebeat_metricbeat-playbook.yml.txt!}
+https://github.com/traxusb/Project-1/blob/2760fe06fd81fc5fda3fa4066b420f4a1ff19696/ansible/filebeat_metricbeat-playbook.yml.txt
 
 This document contains the following details:
 - Description of the Topologu
